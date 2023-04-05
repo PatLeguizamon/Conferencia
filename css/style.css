@@ -1,0 +1,43 @@
+
+
+h4 {
+    text-align:center;
+    color: rgb(51, 10, 10);
+    font-size: 2rem
+    font-family: Tahoma, Arial, Helvetica, sans-serif;
+   }
+
+   h3 {
+    text-align:center;
+    color: rgb(51, 10, 10);
+    font-size: 3rem
+    font-family: Tahoma, Arial, Helvetica, sans-serif;
+   }
+
+p {
+   background-color: #ffffff;
+    text-align:left;
+    color: rgb(7, 4, 4);
+
+    font-size: 1rem
+    font-family: Tahoma, Arial, Helvetica, sans-serif;
+    }
+
+    .px-2 {
+        padding-left: ($spacer * .5) !important;
+        padding-right: ($spacer * .5) !important;
+      }
+
+h5 {
+        text-align:left;
+        color: #ffffff;
+        font-size: 1.5rem
+        font-family: Tahoma, Arial, Helvetica, sans-serif;
+       }
+
+       h6 {
+        text-align:left;
+        color: #ffffff;
+        font-size: 1.5rem
+        font-family: Tahoma, Arial, Helvetica, sans-serif;
+       }
